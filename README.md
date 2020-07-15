@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - React ❤
 - NodeJS & Express
 - Spring & Spring Boot
-- MySQL & MongoDb & H2 & SQLite
+- MySQL & MongoDB & H2 & SQLite
 - HTML & CSS
 
 ### 👧 a little about myself:
