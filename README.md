@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - Spring & Spring Boot
 - MySQL & MongoDB & H2 & SQLite
 - HTML & CSS
+- Firebase, AWS S3/EC2/Lightsail, Parse
 
 ### 👧 a little about myself:
 - I'm a new-grad 2020 master student in UC Irvine. 
