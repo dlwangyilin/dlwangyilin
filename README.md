@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 👧 a little about myself:
 - I'm a new-grad 2020 master student in UC Irvine. 
 - My Program is Master of Software Engineering.
-- I excel in Java, Python, JavaScript and I'm fluent in C++ and Ruby. 
+- I excel in Java, Python, JavaScript(ES8) and I'm fluent in C++ and Ruby. 
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
